@@ -1,0 +1,16 @@
+[
+  {
+    "chatId": 370787804,
+    "decimalCount": 2,
+    "bank": "NBU",
+    "currency": "USD",
+    "notificationTime": "OFF"
+  },
+  {
+    "chatId": 1562262431,
+    "decimalCount": 4,
+    "bank": "NBU",
+    "currency": "USD",
+    "notificationTime": "OFF"
+  }
+]
